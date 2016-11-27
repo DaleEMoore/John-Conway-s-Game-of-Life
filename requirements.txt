@@ -1,0 +1,4 @@
+# Python2
+pygame
+
+# This "pip3 install pygame" didn't get it for Python3! So I shifted to Python2 and installed within PyCharm.
